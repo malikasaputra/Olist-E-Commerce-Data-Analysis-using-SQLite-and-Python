@@ -12,12 +12,12 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 * Seaborn
 
 ## Key Insights
-1. Trend Revenue per tahun mengalamin kenaikan, kenaikan tertinggi ada pada tahun 20018 ini 
-2. Top 3 product : cama_mesa_banho, moveis_decoracao, beleza_saude -> perbanyak stok product-product ini
-3. TOP 3 city : ao paulo, rio de janeiro, belo horizonte -> optimalisasi toko di kota-kota ini
-4. Harga product banyak yang dibawah 1000, dengan rata-rata 120.653739
-5. Tidak ada korelasi linear yang kuat antara hubungan delivery dengan review score
-6. 73.8% payment menggunakan credit card -> berikan promo terkait credit card
+1. Trend Revenue dari waktu ke waktu
+2. Top 3 product 
+3. TOP 3 city 
+4. Distribusi harga product
+5. Korelasi antara hubungan delivery dengan review score
+6. Distribusi payment menggunakan 
 
 ## Dataset
 Olist E-commerce Dataset (Kaggle)
@@ -26,3 +26,4 @@ Olist E-commerce Dataset (Kaggle)
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
