@@ -42,7 +42,7 @@ Visualizations:
 ## 📊 Dataset
 Source: A e-commerce dataset by Olist from Kaggle.
 
-Format: SQLIite.
+Format: .sqlite
 
 Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
@@ -50,6 +50,7 @@ Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-ol
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
