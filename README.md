@@ -16,8 +16,10 @@ This project analyzes an e-commerce dataset from Olist to understand sales perfo
 ## 📌 Key Features
 SQL Querying: 
 * Extracted detailed insights with multiple levels of complexity (Basic, Intermediate, and Advanced queries).
+  
 Data Analysis:
 * Used Python to compute additional metrics like year-over-year growth, corellation Delevery Time and Review Score, etc.
+  
 Visualizations:
 * Presented key business insights through compelling visualizations (bar plots, line graphs, scatterplots) to enhance data understanding and decision-making.
 
@@ -39,13 +41,16 @@ Visualizations:
 
 ## 📊 Dataset
 Source: A e-commerce dataset by Olist from Kaggle.
+
 Format: SQLIite.
+
 Dataset-link: https://www.kaggle.com/datasets/terencicp/e-commerce-dataset-by-olist-as-an-sqlite-database
 
 ## 📂 Project Structure
 * ecommerce_olist_analysis.ipynb
 * olist.sqlite
 * README.md
+
 
 
 
